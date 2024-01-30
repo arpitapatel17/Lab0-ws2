@@ -41,6 +41,7 @@
     color: black;
   }
 
+
   p.myP:hover{background-color: #ddd;}
 
 
@@ -106,4 +107,8 @@ ol li {
   width: 250px;
   text-align: center;
   border-radius: 50%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
  }
+ 
