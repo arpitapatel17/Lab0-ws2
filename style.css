@@ -12,9 +12,13 @@
     font-weight: normal; 
     }
 
+    body {
+      background-color: #0000000e;
+    }
+
     .container{
       width: 1000px;
-      background-color: #fff;
+      background-color: #0000000e;
       margin: auto;
 
     }
